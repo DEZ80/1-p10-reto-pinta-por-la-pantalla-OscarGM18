@@ -15,6 +15,7 @@ Los píxeles deben ser de 3 colores distintos y no estar en la primera fila de p
 ```
 C2D0 00 00 00 80 00 88 00 08 00 00 00 00 00 00
 PC: 4000
+````
 
 ## Actividad 3: Columna de 5 píxeles consecutivos
 Los píxeles deben formar un dibujito en vertical, en la misma columna.
